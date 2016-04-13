@@ -1,6 +1,6 @@
 # include < stdio .h >
 int main (){
-int number = 100;
+int number = 99;
 printf ( "%d" , number );
 return 0;
 }
